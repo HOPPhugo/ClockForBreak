@@ -1,0 +1,16 @@
+C:\Users\hugos\Persos\Clocl\bin\Debug\net8.0-windows\Clocl.exe
+C:\Users\hugos\Persos\Clocl\bin\Debug\net8.0-windows\Clocl.deps.json
+C:\Users\hugos\Persos\Clocl\bin\Debug\net8.0-windows\Clocl.runtimeconfig.json
+C:\Users\hugos\Persos\Clocl\bin\Debug\net8.0-windows\Clocl.dll
+C:\Users\hugos\Persos\Clocl\bin\Debug\net8.0-windows\Clocl.pdb
+C:\Users\hugos\Persos\Clocl\obj\Debug\net8.0-windows\Clocl.Form1.resources
+C:\Users\hugos\Persos\Clocl\obj\Debug\net8.0-windows\Clocl.csproj.GenerateResource.cache
+C:\Users\hugos\Persos\Clocl\obj\Debug\net8.0-windows\Clocl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugos\Persos\Clocl\obj\Debug\net8.0-windows\Clocl.AssemblyInfoInputs.cache
+C:\Users\hugos\Persos\Clocl\obj\Debug\net8.0-windows\Clocl.AssemblyInfo.cs
+C:\Users\hugos\Persos\Clocl\obj\Debug\net8.0-windows\Clocl.csproj.CoreCompileInputs.cache
+C:\Users\hugos\Persos\Clocl\obj\Debug\net8.0-windows\Clocl.dll
+C:\Users\hugos\Persos\Clocl\obj\Debug\net8.0-windows\refint\Clocl.dll
+C:\Users\hugos\Persos\Clocl\obj\Debug\net8.0-windows\Clocl.pdb
+C:\Users\hugos\Persos\Clocl\obj\Debug\net8.0-windows\Clocl.genruntimeconfig.cache
+C:\Users\hugos\Persos\Clocl\obj\Debug\net8.0-windows\ref\Clocl.dll
